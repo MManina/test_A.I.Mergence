@@ -6,6 +6,6 @@
 #include <string>
 #include <fstream>
 
-void quickSort(string& data, int first, int last);
+void quickSort(std::string& tab, int first, int last);
 
 #endif
